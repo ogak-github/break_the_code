@@ -1,6 +1,6 @@
 # break_the_code
 
-A simple math game where you will look for 3 numbers multiplied and divided.
+A simple math game where you will look for 3 numbers multiplied and added.
 
 ## Screenshot
 
